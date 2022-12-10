@@ -1,0 +1,14 @@
+Using JavaScript React. I first created the Lawrence.js which in it i created a musicCompetition. The musicCompetition I created  
+just have first three runup competitor that is Asake, Davido and Buna-Boy. 
+Steps taken {
+    firstly I created  a class called MusicCompetition and in it I created  the component of the class that is the number of music and it was assigned to 10000; i created the three main artistic involves in the competition which is burna-boy, asake, and davido; then i went on to create the number of syudio and also the number of Fans and the music of the year. 
+    Although i reassign it the value especially the artist of the year and assign the artist to their performnace and using "This." properties i was able to display our over written code. I created a variable called musicEp and reassign it to our main class called musicCompetition using the "new feature" function, which i from it reassign all my code and it ran properly,
+    Finally i was able to display the my mini musicCompetition and it ran very well in the console.
+}
+
+In the second file i mainly use the static properties
+steps taken{
+    firstly i created a class called letsknoweachOther and i set the properties of my class to my details;
+    I did that because i was trying to assign more than one static in the musicCompetition code and it was so hard for me to do but after having a session with our facilitator, He explained that you can more than one static feature so i use this as a learning experience for the static feature.
+    Second, I created a class property called lastName, emails, firstName; using the static properties like "this" and also i reassign all the features in the class property outside the class property and using the properties individually like "const africaBeauty = letsKnoweachOther.getfullname" and with this properties i was able to get an individual properties of what was assigne to the class. 
+}
