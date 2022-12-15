@@ -4,7 +4,7 @@ class letsKnoweachOther {
     static email = 'Chukwulawrencep@gmail.com';
     static twitter = 'CHINECHEREMCHU4@gmail.com';
     static facebook = 'Chukwu Lawrence'
-    static age = '23'
+    static age = '24'
     static phoneNumber = '+234-8144883248';
 
 
